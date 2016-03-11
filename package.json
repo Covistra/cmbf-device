@@ -1,6 +1,6 @@
 {
   "name": "device",
-  "version": "1.0.1",
+  "version": "1.0.2-pre",
   "description": "CMBF plugin used to communicate with a connected device. Reuse websocket channels and supports offline data caching",
   "dependencies": {
     "bluebird": "^3.3.4",
